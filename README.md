@@ -1,4 +1,4 @@
-# OpenCart REST API
+# OpenCart REST API Demo
 
 ### A list of all available methods
 
